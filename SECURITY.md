@@ -17,7 +17,7 @@ Only the currently deployed version of The Equality platform and smart contract 
 
 If you discover a vulnerability — in the smart contract, the platform, or any associated infrastructure — report it privately via email:
 
-**security@theequality.io**
+**support@theequality.io**
 
 Include in your report:
 - A clear description of the vulnerability
