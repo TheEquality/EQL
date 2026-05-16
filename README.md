@@ -29,6 +29,39 @@ A further 1% of every transaction is permanently burned, making EQL deflationary
 
 ---
 
+## Smart Contract
+
+The EQL token contract is deployed on BNB Smart Chain and verified on BscScan.
+
+```
+Network:  BNB Smart Chain (BSC) — Mainnet
+Standard: BEP-20
+Address:  0xc83716944014eC9aa23C2c95820D81fB05d4063d
+```
+
+🔍 **[View on BscScan](https://bscscan.com/token/0xc83716944014eC9aa23C2c95820D81fB05d4063d)**
+
+| Contract Property | Value |
+|---|---|
+| Token Name | Equality |
+| Symbol | EQL |
+| Decimals | 18 |
+| Total Supply | 10,000,000,000 EQL |
+| Mintable | No — supply is fixed at deployment |
+| Pausable | No |
+| Ownership | Renounced |
+| Transaction fee (sell) | 5% — 4% charity + 1% burn |
+| Audit | CertiK |
+
+### On-chain verification
+
+- **Token contract:** [bscscan.com/token/0xc83716944014eC9aa23C2c95820D81fB05d4063d](https://bscscan.com/token/0xc83716944014eC9aa23C2c95820D81fB05d4063d)
+- **Token tracker:** [bscscan.com/address/0xc83716944014eC9aa23C2c95820D81fB05d4063d](https://bscscan.com/address/0xc83716944014eC9aa23C2c95820D81fB05d4063d)
+- **Holders:** publicly visible on BscScan
+- **Transactions:** fully auditable on-chain
+
+---
+
 ## Key Features
 
 - **Automatic charity distribution** — 4% of every sell is routed on-chain to verified families in need, with no manual intervention required.
