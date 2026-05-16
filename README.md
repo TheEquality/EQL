@@ -174,9 +174,9 @@ All allocations are held in dedicated Safe multisig wallets or public token lock
 
 | Name | Role |
 |---|---|
-| Francesco La Gioia | CEO, Founder & Lead Developer |
-| Rossana Matrella | Chief Content Officer (CCO) |
-| Mauro Di Domizio | Chief Operating Officer (COO) |
+| Francesco L. | Founder & Lead Developer |
+
+**Open positions:** Blockchain Developer · Marketing & PR · Community Manager
 
 ---
 
