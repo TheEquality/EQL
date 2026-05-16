@@ -127,24 +127,24 @@ Whitelisted families receive up to **€1,000/month** via VISA card. Eligibility
 
 Total supply: **10,000,000,000 EQL** — fixed, non-inflationary, no new minting possible.
 
-| Allocation | % | Tokens |
-|---|---|---|
-| Staking & Yield Farming | 12% | 1,200,000,000 |
-| CEX Listing & Market Making | 10% | 1,000,000,000 |
-| Research & Development | 10% | 1,000,000,000 |
-| Operations & Infrastructure | 10% | 1,000,000,000 |
-| Partnership & Ecosystem | 10% | 1,000,000,000 |
-| Private Sale Round 1 | 10% | 1,000,000,000 |
-| Team | 10% | 1,000,000,000 |
-| Marketing, Community & Airdrops | 8% | 800,000,000 |
-| DEX Liquidity Reserve | 5% | 500,000,000 |
-| Charity / Social Impact Reserve | 5% | 500,000,000 |
-| Future Burn Reserve | 5% | 500,000,000 |
-| Public Sale | 2% | 200,000,000 |
-| Private Sale Round 2 | 2% | 200,000,000 |
-| Private Sale Round 3 | 1% | 100,000,000 |
+| Allocation | % | Tokens | Address |
+|---|---|---|---|
+| Staking & Yield Farming | 12% | 1,200,000,000 | [`0x6cca…4E1`](https://bscscan.com/address/0x6ccaA8E84dC8D2fd149569f9c04C650ee169E4E1) |
+| CEX Listing & Market Making | 10% | 1,000,000,000 | [`0x2B8a…5294`](https://bscscan.com/address/0x2B8ac079DEaF9D18dB70AFbeb2444Bd927FA5294) |
+| Research & Development | 10% | 1,000,000,000 | [`0xfc9F…01FB`](https://bscscan.com/address/0xfc9F15d3FB3Afb53AAF4565a3404c6551E5e01FB) |
+| Operations & Infrastructure | 10% | 1,000,000,000 | [`0xd4a4…6616`](https://bscscan.com/address/0xd4a44abCDc690b0dDb5d58ddfAB5e5d3C5316616) |
+| Partnership & Ecosystem | 10% | 1,000,000,000 | [`0x3353…7848`](https://bscscan.com/address/0x33539e66F4F77820EF70FC20a7FF714E97F7B848) |
+| Private Sale Round 1 | 10% | 1,000,000,000 | [`0x83C1…0342`](https://bscscan.com/address/0x83C14b4D278b23209692Fb11d10d59B583100342) |
+| Team | 10% | 1,000,000,000 | [`0x87Ce…FAa4`](https://bscscan.com/address/0x87Ce3f63a98e0C1f69F859f4a7B8F953EE69FAa4) *(vesting recipient)* |
+| Marketing, Community & Airdrops | 8% | 800,000,000 | [`0xeDa9…cB`](https://bscscan.com/address/0xeDa9AAd7D5Ef59Dd6fE01c1E931249850aC6b4cB) |
+| DEX Liquidity Reserve | 5% | 500,000,000 | [`0x8574…436f`](https://bscscan.com/address/0x8574a838a62053294Bda188B6f44547ead4f436f) *(OnlyMoons lock)* |
+| Charity / Social Impact Reserve | 5% | 500,000,000 | [`0x6DEE…86b6`](https://bscscan.com/address/0x6DEE4A39a0cb14103a5c8f5465088c3bE46186b6) |
+| Future Burn Reserve | 5% | 500,000,000 | [`0xDcB5…0B55`](https://bscscan.com/address/0xDcB5CBD322F976700b108e2401959d5a3E200B55) *(OnlyMoons lock)* |
+| Public Sale | 2% | 200,000,000 | [`0x06aE…94d`](https://bscscan.com/address/0x06aEb1C02E3e952ce5b95B4bF0F0a3D3027ed94d) |
+| Private Sale Round 2 | 2% | 200,000,000 | [`0x6f09…23C`](https://bscscan.com/address/0x6f09F971d1301C834AfbDe635f0f94D78e7aD23C) |
+| Private Sale Round 3 | 1% | 100,000,000 | [`0x12B1…aEc7`](https://bscscan.com/address/0x12B164dE30498E4e4C6f4e914B2EFB1c9805aEc7) |
 
-All allocations are held in dedicated Safe multisig wallets with publicly verifiable transaction hashes on BscScan.
+All allocations are held in dedicated Safe multisig wallets or public token locks, with all movements verifiable on BscScan.
 
 ---
 
